@@ -1,5 +1,5 @@
 # NODE
-
+//[{"title":"CLothes","body":"Sweater"},{"title":"Stationery","body":"Pen,Pencil"},{"title":"List","body":"All list"}]
 // const chalk=require('chalk')
 const yargs = require('yargs')
 const notes = require('./notes')
